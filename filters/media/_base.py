@@ -1,6 +1,6 @@
 
 
-class MediaBase:
+class Media:
 
     ssa = None
 
