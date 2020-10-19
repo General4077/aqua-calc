@@ -2,9 +2,9 @@
 Define the Lettuce type
 """
 
-from ._base import CropBase
+from ._base import Crop
 
-class Lettuce(CropBase):
+class Lettuce(Crop):
     """
     Define the characteristics of lettuce
     """
